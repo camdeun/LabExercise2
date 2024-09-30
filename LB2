@@ -1,3 +1,7 @@
+PS C:\Users\ccame\OneDrive\Desktop\IOD> mkdir Module.1
+PS C:\Users\ccame\OneDrive\Desktop\IOD> cd Module.1
+PS C:\Users\ccame\OneDrive\Desktop\IOD\Module.1> mkdir exercise2.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +10,16 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Hello World!</h1>
+  <h1>Lab Exercise Instructions</h1>
+  <ol>
+    <li>Open or create the Module1 folder in VS Code.</li>
+    <li>Use the Terminal feature of VS Code to issue commands to create a new folder inside Module1 for LabExercises and change into it.</li>
+    <li>Inside the LabExercises folder, create a new file called exercise2.html.</li>
+    <li>Generate a basic HTML skeleton using Emmet abbreviation.</li>
+    <li>Populate the body with basic HTML representing these lab steps.</li>
+    <li>Go Live to view and test the HTML.</li>
+    <li>Install Prettier VSCode extension and format the selected code with Ctrl-K-F.</li>
+    <li>Read through "Dealing with Files" on MDN for tips about website file systems.</li>
+  </ol>
 </body>
 </html>
